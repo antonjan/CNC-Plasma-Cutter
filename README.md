@@ -5,10 +5,10 @@ CNC Plasma Cutter design.
 
 
 # X Bering View
-![psu](africube_power_supply.jpeg?raw=true "psu")<br>
+![CNC](Plasma_cnc_X_bering.png?raw=true "CNC")<br>
 
 # Y bering View
-![psu](africube_power_supply.jpeg?raw=true "psu")<br>
+![psu](Plasma_cnc_y_bering.png?raw=true "CNC berring")<br>
 
 
 
