@@ -5,10 +5,12 @@ CNC Plasma Cutter design.
 
 
 # X Bering View
-![CNC](Plasma_cnc_X_bering.png?raw=true "CNC")<br>
+![CNC berring](Plasma_cnc_X_bering.png?raw=true "CNC")<br>
 
 # Y bering View
-![psu](Plasma_cnc_y_bering.png?raw=true "CNC berring")<br>
+![CNC berring](Plasma_cnc_Y_bering.png?raw=true "CNC berring")<br>
 
+# Y GRBL moter and controler Kit
+![GRBL Moters and controler](GRBL_CNC_Moter_controler_kit.jpeg?raw=true "moter and controler")<br>
 
 
