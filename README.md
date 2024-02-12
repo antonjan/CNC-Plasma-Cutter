@@ -3,6 +3,9 @@ CNC Plasma Cutter design.
 
 # Compleet Asemblie View
 
+## table assembly
+![CNC berring](cnc_table.jpeg?raw=true "CNC")<br>
+
 
 # X Bering View
 ![CNC berring](Plasma_cnc_X_bering.png?raw=true "CNC")<br>
